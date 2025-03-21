@@ -35,5 +35,13 @@ A sample data file (in Excel format) is included in this repository, demonstrati
 
 ---
 
-### Contact Information
-For inquiries, custom scraping requests, or more information about the project, please reach out via [LinkedIn](https://www.linkedin.com/in/mominur--rahman/) or visit my [portfolio website](https://mominur.dev).
+## Contact Me
+
+For any inquiries or service requests, please reach out to me via LinkedIn or visit my portfolio website:
+
+- **Portfolio:** [mominur.dev](https://mominur.dev)
+- **GitHub:** [github.com/mominurr](https://github.com/mominurr)
+- **LinkedIn:** [linkedin.com/in/mominur--rahman](https://www.linkedin.com/in/mominur--rahman/)
+- **Email:** mominurr518@gmail.com
+
+I look forward to connecting with you!
