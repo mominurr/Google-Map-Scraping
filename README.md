@@ -2,6 +2,16 @@
 
 The Google Map Scraping project is designed to extract detailed business information from Google Maps listings. This project uses web scraping techniques to collect structured data, making it easier to analyze businesses, generate leads, and conduct market research. The information gathered supports better decision-making by providing key insights into businesses and services.
 
+# ⚠️ **Important Notice: Business Use Only** ⚠️
+
+This repository is for **demonstration purposes only** and **not for free use**. It showcases my professional expertise in **web scraping** and **automation**.
+
+🚫 **Unauthorized use, redistribution, or modification is strictly prohibited.**
+
+💼 **For custom web scraping and automation solutions, please contact me directly for professional, business-focused services.**
+
+📩 [Get in Touch](https://mominur.dev)
+
 ## Key Features of the Project
 
 ### 1. Business Data Extraction
